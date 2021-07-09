@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olaa+Visitante!+👋;Meu+nome+é;+Mateus+Coelho....;Eh+um+prazer+te+ver+aqui!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olaa+Visitante!+👋;Meu+nome+é;+Mateus+Coelho....;é+um+prazer+te+ver+aqui!&center=true&size=30">
   </a>
 </h1>
 
