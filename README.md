@@ -80,12 +80,13 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/mateushcp/
+Algoritmos-em-C" title="Algoritmos-em-C"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Algoritmos-em-C&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="right" href="https://github.com/mateushcp/Refatoracao-de-codigo" title="Refatoracao de codigo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Refatoracao-de-codigo&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/mateushcp?tab=repositories" title="Show Repositories">🔎 Ver mais 🔍</a><a align="left" href="https://github.com/mateushcp/
-Algoritmos-em-C" title="Algoritmos-em-C"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Algoritmos-em-C&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/mateushcp?tab=repositories" title="Show Repositories">🔎 Ver mais 🔍</a>
 </h4>
 
 
